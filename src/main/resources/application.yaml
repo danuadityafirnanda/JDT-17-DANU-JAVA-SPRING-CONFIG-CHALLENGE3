@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: jdt17.spring.dasar.config.challenge.three
+
+product:
+  default-discount: 5
+  tax-percentage: 11
